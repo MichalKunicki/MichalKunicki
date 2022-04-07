@@ -3,10 +3,10 @@
 ## My name is Michał and I am a front-end web developer deeply focused on mastering the dark arts of ReactJS and its whole ecosystem. I also enjoy design work and have good experience with today's most relevant JavaScript tech stack. 
 
 ### In my free time I'm an:
-- 💲enterpreneur💲
-- 🪙bitcoin investor🪙
-- 🎹pianist🎹
-- 🏸squash player🏸
+💲 Enterpreneur 💲
+🪙 Bitcoin Investor 🪙
+🎹 Pianist 🎹
+🏸 Squash Player 🏸
 
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
