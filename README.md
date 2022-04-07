@@ -1,15 +1,13 @@
-# Hi there!👋 My name is Michał and I am a front-end web developer deeply focused on mastering the dark arts of ReactJS.
+# Hi there!👋
 
-## In my free time I'm an enterpreneur, crypto investor, pianist and a squash player.
+## My name is Michał and I am a front-end web developer deeply focused on mastering the dark arts of ReactJS and its whole ecosystem.
+## I also enjoy design work and have good experience with today's most relevant JavaScript tech stack. 
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
-
-* 
+### In my free time I'm an:
+- 💲enterpreneur💲
+- 🪙bitcoin investor🪙
+- 🎹pianist🎹
+- 🏸squash player🏸
 
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
