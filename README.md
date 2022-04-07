@@ -1,6 +1,6 @@
 # 📢Hi there!
 
-## My name is Michał and I am a front-end web developer deeply focused on mastering the dark arts of ReactJS and its whole ecosystem. I also enjoy design work and have good experience with today's most relevant JavaScript tech stack. 
+## My name is Michał and I am a front-end web developer deeply focused on mastering the dark arts of ReactJS and its whole ecosystem. I also enjoy design work and have good experience with the most relevant JavaScript tech stack of today. 
 
 ### In my free time I'm an:
 💲 Enterpreneur 💲
