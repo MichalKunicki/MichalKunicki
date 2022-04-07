@@ -1,5 +1,4 @@
 # Hi there!👋 My name is Michał and I am a front-end web developer deeply focused on mastering the dark arts of ReactJS.
-  I also enjoy design work 
 
 ## In my free time I'm an enterpreneur, crypto investor, pianist and a squash player.
 
