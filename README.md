@@ -9,8 +9,11 @@
 🏸 Squash Player 🏸
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[<img src="./img/skype-3.svg" width="26" height="26" />][skype]
+&nbsp;&nbsp;
+[<img src="./img/new-logo-gmail-svgrepo-com.svg" width="26" height="26" />][gmail]
+&nbsp;&nbsp;
+[<img src="./img/linkedin-icon-2.svg" width="26" height="26" />][linkedin]
 &nbsp;&nbsp;
 
 ### Languages and Tools:
@@ -26,3 +29,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+[skype]: https://join.skype.com/invite/Lw5p7nmhN3rc
+[gmail]: mailto:michalkunicki96@gmail.com
+[linkedin]: linkedin.com
