@@ -32,4 +32,4 @@
 
 [skype]: https://join.skype.com/invite/Lw5p7nmhN3rc
 [gmail]: mailto:michalkunicki96@gmail.com
-[linkedin]: https://www.linkedin.com/
+[linkedin]: https://www.linkedin.com/in/michal-kunicki/
